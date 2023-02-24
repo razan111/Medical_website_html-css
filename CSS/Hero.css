@@ -1,0 +1,67 @@
+.hero{
+    margin: auto;
+    width: 65%; 
+}
+.hero h1{
+    font-size: 74px;
+    font-weight: 400;
+    text-align: center;
+    margin: 100px 40px 20px;
+}
+.hero p{
+    font-size: 18px;
+    font-weight: 500;
+    text-align: center;
+    margin: 0px 50px;
+}
+
+.hero-btn{
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+}
+.hero-btn button{
+    margin: 0px 7px;
+}
+.schedule{
+    border: none;
+    background: none;
+    font-size: 18px;
+}
+
+.heroSection{
+    max-width: 1440px;
+    margin: auto;
+}
+
+.heroSection img{
+    margin-top: 80px;
+    height: 900px;
+}
+.heroLast{
+    max-width: 50%;
+    margin: auto;
+}
+
+.heroLast h3{
+    font-size: 40px;
+    text-align: center;
+    margin: 20px;
+
+}
+p{
+    font-size: 18px;
+}
+.heroLast p{
+    text-align: center;
+}
+
+.heroImage{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 0px;
+}
+.heroImage img{
+    width: 228px;
+    height: 73px;
+}

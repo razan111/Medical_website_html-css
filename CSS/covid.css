@@ -1,0 +1,37 @@
+.covid-section{
+    background-color: white;
+    padding: 70px 0px;
+}
+.covid{
+    max-width: 1440px;
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.covid h3{
+    font-size: 58px;
+    margin: 0;
+}
+
+.finding-section{
+    padding: 50px 0;
+}
+.finding-section h3{
+    font-size: 55px;
+    text-align: center;
+}
+.finding{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.finding-box{
+    border: 1px solid black;
+    padding: 30px;
+    border-radius: 5px;
+}
+.finding-box1{
+    background-color: white;
+}
